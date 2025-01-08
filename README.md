@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/diogo ribeiro]"/></a>
+<a href="[https://www.linkedin.com/in/diogo-ribeiro-71742420b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/diogo-ribeiro-71742420b)"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
